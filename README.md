@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name / Krow-zy] 👋
+# Hi, I'm [Rizaldy / Krow-zy] 👋
 ### Software Engineer | Systems & Network Security
 
 I am a software engineer focused on backend development and system security. I build secure backend systems, local network monitoring applications, and full-stack web platforms using Go, PHP (Laravel), and Python.
