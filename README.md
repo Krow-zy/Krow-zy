@@ -5,7 +5,7 @@ I am a software engineer focused on backend development and system security. I b
 
 - 🛡️ Currently working on **[ReksaFel](https://github.com/Krow-zy/ReksaFel)** — a Zero-Trust network exam monitoring tool.
 - 💻 Experienced in full-stack web platforms using **Laravel** & cross-platform system deployments.
-- 🎯 Areas of focus: Backend Engineering, Applied Cryptography (Key Rotation), P2P Network Overlays, and Secure System Design.
+- 🎯 Areas of focus: Backend Engineering, Applied Cryptography, P2P Network Overlays, and Secure System Design.
 - 📫 How to reach me: `[bamboow@protonmail.com]`
 
 ---
