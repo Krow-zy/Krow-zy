@@ -38,6 +38,6 @@ A simple, lightweight healthcare administration portal built for local clinic ma
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krow-zy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_secodns=1800" alt="Krow-zy GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krow-zy&layout=compact&theme=tokyonight&hide_border=true" alt="Krow-zy Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Krow-zy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="Krow-zy GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krow-zy&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Krow-zy Top Languages" height="180px" />
 </p>
